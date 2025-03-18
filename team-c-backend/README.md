@@ -25,11 +25,11 @@ Um dieses Projekt lokal auszuführen, führen Sie die folgenden Schritte aus:
 
 1. Projekt klonen: 
 ```
-$ git clone https://gitlab.htw-berlin.de/Sabine.Matthies/team-c-backend
+$ git clone https://github.com/nicdriebe/CleverConnect
 ```
 2. In das Projektverzeichnis wechseln: 
 ```
-$ cd ../path/to/the/file
+$ cd ../path/to/the/file/team-c-backend
 ```
 3. Abhängigkeiten installieren: 
 ```
