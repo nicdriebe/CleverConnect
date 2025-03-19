@@ -16,7 +16,7 @@ Die ideale Plattform der HTW Berlin, die Studierende mit externen Experten verne
 Für Studierende: Finde mit nur weniges Klicks die passende Zweitbetreuung für deine Bachelorarbeit.<br>
 Für Externe: Erweitere dein Netzwerk, biete deine Expertise an und unterstütze Studierende bei ihrer Bachelorarbeit.
 
-##### Das Projekt ist im 3.Semesters des Studiengangs Informatik und Wirtschaft der HTW Berlin entstanden.
+##### Das Projekt ist im 3.Semester des Studiengangs Informatik und Wirtschaft der HTW Berlin entstanden.
 
 
 ## Installation
