@@ -16,13 +16,13 @@ Die ideale Plattform der HTW Berlin, die Studierende mit externen Experten verne
 Für Studierende: Finde mit nur weniges Klicks die passende Zweitbetreuung für deine Bachelorarbeit.<br>
 Für Externe: Erweitere dein Netzwerk, biete deine Expertise an und unterstütze Studierende bei ihrer Bachelorarbeit.
 
-##### _Wichtiger Hinweis: Bitte beachten Sie, dass dieses Projekt sich aktuell noch in Entwicklung befindet und der dargestellte Zustand somit vorläufig ist._
+##### Das Projekt ist im 3.Semesters des Studiengangs Informatik und Wirtschaft der HTW Berlin entstanden.
 
 
 ## Installation
 
 Schauen Sie sich gerne zusätzlich noch die README des Backend-Repositories an, dort erhalten Sie weitere Informationen, wie zum Thema "PostgresSQL-Datenbank anlegen":<br>
-https://gitlab.rz.htw-berlin.de/Sabine.Matthies/team-c-backend/-/tree/second_main?ref_type=heads
+
 
 ### Voraussetzungen
 
@@ -35,9 +35,7 @@ Bevor Sie beginnen, stellen Sie sicher, dass die folgenden Voraussetzungen erfü
 
 - Um die Anwendung auf Ihrem lokalen System auszuführen, müssen Sie das Repository des Frontends und des Backends herunterladen. Befolgen Sie die folgenden Schritte, um die Repository herunterzuladen und die Anwendung zu starten.
 - Öffnen Sie die Kommandozeile und navigieren Sie zu dem Ordner, in dem Sie das Repository klonen möchten. Führen Sie dann den folgenden Befehl aus, um die Repository des Frontends herunterzuladen:
-  git clone https://gitlab.rz.htw-berlin.de/Fuerueze.Saritoprak/team-c-frontend-neu.git und drücken Sie die Eingabetaste.
-- Navigieren Sie dann zu dem Ordner, in dem Sie das Repository geklont haben, und führen Sie den folgenden Befehl aus, um die Repository des Backends herunterzuladen:
-  git clone https://gitlab.rz.htw-berlin.de/Sabine.Matthies/team-c-backend.git und drücken Sie die Eingabetaste.
+  git clone https://github.com/nicdriebe/CleverConnect.git und drücken Sie die Eingabetaste.
 
 
 ## Ausführung der Anwendung
